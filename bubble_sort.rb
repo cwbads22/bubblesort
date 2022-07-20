@@ -20,6 +20,8 @@ end
 a = [10, 1, 5, 7, 2, 1, 57, 4]              # an array
 
 p bubble_sort(a)                            # appying the function on the given array (a)
-            
-               
+
+
+# Output
+# => [1, 1, 2, 4, 5, 7, 10, 57]
     
