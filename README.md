@@ -8,5 +8,5 @@
 <p> 
 Algorithm to sort elements by comparing them to the next one in the array and swapping positions.
 
-From The Odin Project FullStack Ruby-on-Rails path.
+Practice from The Odin Project FullStack Ruby-on-Rails path.
 </p>
